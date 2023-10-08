@@ -1,4 +1,4 @@
-# -IUT-R1.03-TD1-SIMON-LOUIS
+###### -IUT-R1.03-TD1-SIMON-LOUIS
 # Cyberpunk 2077
 
 Cyberpunk 2077 est un jeux video d’action-RPG en monde ouvert et en jeux de tir en vue a la premiere personne (un FPS) et développé par CD Projekt RED, inspiré du jeu de rôle Cyberpunk 2020 conçu par Mike Pondsmith. Le jeu présente un monde futuriste dystopique dans un monde avec un style cyberpunk, dans lequel la technologie coexiste avec une société humaine dégénérée. Le jeu est marqué par un développement particulièrement long, en partie parce que le studio développe en parallèle The Witcher 3. Le jeu a donc été repoussé plusieurs fois jusqu'au 10 décembre 2020. Massivement critiqué à sa sortie en raison d'importants problèmes techniques sur plusieurs de ses supports, Cyberpunk 2077 est progressivement réhabilité dans les années suivantes, alors que les développeurs ont proposé de nombreuses mises à jour pour améliorer l'expérience de jeu. Il est finalement vendu à plus de 20 millions de copies en septembre 2022 et permet de lancer une nouvelle franchise, avec une série d'animation sur Netflix, Cyberpunk: Edgerunners en 2022, et la mise en chantier d'une suite au jeu.
